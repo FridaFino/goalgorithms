@@ -4,7 +4,7 @@
 
 package dynamic
 
-import "github.com/TheAlgorithms/Go/math/min"
+import "github.com/FridaFino/goalgorithms/math/min"
 
 // EditDistanceRecursive is a naive implementation with exponential time complexity.
 func EditDistanceRecursive(first string, second string, pointerFirst int, pointerSecond int) int {

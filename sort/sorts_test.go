@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TheAlgorithms/Go/sort"
+	"github.com/FridaFino/goalgorithms/sort"
 )
 
 func testFramework(t *testing.T, sortingFunction func([]int) []int) {

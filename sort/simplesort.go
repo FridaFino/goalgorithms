@@ -8,7 +8,7 @@
 
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 func Simple[T constraints.Ordered](arr []T) []T {
 	for i := 0; i < len(arr); i++ {

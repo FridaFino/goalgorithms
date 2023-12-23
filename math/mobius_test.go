@@ -8,7 +8,7 @@ package math_test
 import (
 	"testing"
 
-	algmath "github.com/TheAlgorithms/Go/math"
+	algmath "github.com/FridaFino/goalgorithms/math"
 )
 
 func TestMu(t *testing.T) {

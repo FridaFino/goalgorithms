@@ -3,7 +3,7 @@
 
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 func getNextGap(gap int) int {
 	gap = (gap * 10) / 13

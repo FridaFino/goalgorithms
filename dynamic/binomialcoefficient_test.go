@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/dynamic"
+	"github.com/FridaFino/goalgorithms/dynamic"
 )
 
 func TestBin2(t *testing.T) {

@@ -1,8 +1,8 @@
 package math
 
 import (
-	"github.com/TheAlgorithms/Go/search"
-	"github.com/TheAlgorithms/Go/sort"
+	"github.com/FridaFino/goalgorithms/search"
+	"github.com/FridaFino/goalgorithms/sort"
 )
 
 // FindKthMax returns the kth large element given an integer slice

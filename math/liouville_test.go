@@ -8,7 +8,7 @@ package math_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/math"
+	"github.com/FridaFino/goalgorithms/math"
 )
 
 func TestLiouvilleLambda(t *testing.T) {

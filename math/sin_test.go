@@ -1,7 +1,7 @@
 package math_test
 
 import (
-	algmath "github.com/TheAlgorithms/Go/math"
+	algmath "github.com/FridaFino/goalgorithms/math"
 	stdmath "math"
 	"testing"
 )

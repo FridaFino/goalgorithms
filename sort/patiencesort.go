@@ -8,7 +8,7 @@
 
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 func Patience[T constraints.Ordered](arr []T) []T {
 	if len(arr) <= 1 {

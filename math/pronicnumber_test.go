@@ -7,7 +7,7 @@ package math_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/math"
+	"github.com/FridaFino/goalgorithms/math"
 )
 
 func TestPronicNumber(t *testing.T) {

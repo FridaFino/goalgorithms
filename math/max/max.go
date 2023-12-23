@@ -1,6 +1,6 @@
 package max
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 // Int is a function which returns the maximum of all the integers provided as arguments.
 func Int[T constraints.Integer](values ...T) T {

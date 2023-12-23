@@ -14,7 +14,7 @@ package math
 import (
 	"errors"
 
-	"github.com/TheAlgorithms/Go/math/prime"
+	"github.com/FridaFino/goalgorithms/math/prime"
 )
 
 var ErrNonZeroArgsOnly error = errors.New("arguments cannot be zero")

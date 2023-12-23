@@ -4,7 +4,7 @@
 package coloring_test
 
 import (
-	"github.com/TheAlgorithms/Go/graph/coloring"
+	"github.com/FridaFino/goalgorithms/graph/coloring"
 	"strconv"
 	"testing"
 )

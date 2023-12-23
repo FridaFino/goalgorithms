@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/math/matrix"
+	"github.com/FridaFino/goalgorithms/math/matrix"
 )
 
 func TestMatrixString(t *testing.T) {

@@ -10,7 +10,7 @@
 package math
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/FridaFino/goalgorithms/constraints"
 )
 
 func IsAutomorphic[T constraints.Integer](n T) bool {

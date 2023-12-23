@@ -1,7 +1,7 @@
 package math
 
 import (
-	"github.com/TheAlgorithms/Go/search"
+	"github.com/FridaFino/goalgorithms/search"
 	"testing"
 )
 

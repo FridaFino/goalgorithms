@@ -10,7 +10,7 @@ package modular
 import (
 	"errors"
 
-	"github.com/TheAlgorithms/Go/math/gcd"
+	"github.com/FridaFino/goalgorithms/math/gcd"
 )
 
 var ErrorInverse = errors.New("no Modular Inverse exists")

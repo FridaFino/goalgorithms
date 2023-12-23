@@ -5,8 +5,8 @@
 package math
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
-	"github.com/TheAlgorithms/Go/sort"
+	"github.com/FridaFino/goalgorithms/constraints"
+	"github.com/FridaFino/goalgorithms/sort"
 )
 
 func Median[T constraints.Number](values []T) float64 {

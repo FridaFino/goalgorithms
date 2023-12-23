@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/TheAlgorithms/Go/math/min"
+import "github.com/FridaFino/goalgorithms/math/min"
 
 type apHelper struct {
 	is_ap              []bool

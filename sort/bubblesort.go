@@ -3,7 +3,7 @@
 
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 // Bubble is a simple generic definition of Bubble sort algorithm.
 func Bubble[T constraints.Ordered](arr []T) []T {

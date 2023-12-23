@@ -1,6 +1,6 @@
 package matrix
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 // IsValid checks if the input matrix has consistent row lengths.
 func IsValid[T constraints.Integer](elements [][]T) bool {

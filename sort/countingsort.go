@@ -6,7 +6,7 @@
 
 package sort
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 func Count[T constraints.Integer](data []T) []T {
 	if len(data) == 0 {

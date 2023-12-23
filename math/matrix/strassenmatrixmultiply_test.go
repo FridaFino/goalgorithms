@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TheAlgorithms/Go/constraints"
-	"github.com/TheAlgorithms/Go/math/matrix"
+	"github.com/FridaFino/goalgorithms/constraints"
+	"github.com/FridaFino/goalgorithms/math/matrix"
 )
 
 func TestStrassenMatrixMultiply(t *testing.T) {

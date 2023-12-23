@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/TheAlgorithms/Go/sort"
+import "github.com/FridaFino/goalgorithms/sort"
 
 type Item struct {
 	node int

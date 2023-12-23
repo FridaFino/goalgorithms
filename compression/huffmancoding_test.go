@@ -9,7 +9,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/compression"
+	"github.com/FridaFino/goalgorithms/compression"
 )
 
 // SymbolCountOrd computes sorted symbol-frequency list of input message

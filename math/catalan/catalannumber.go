@@ -9,7 +9,7 @@
 package catalan
 
 import (
-	f "github.com/TheAlgorithms/Go/math/factorial"
+	f "github.com/FridaFino/goalgorithms/math/factorial"
 )
 
 // CatalanNumber This function returns the `nth` Catalan number

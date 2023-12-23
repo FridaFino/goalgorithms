@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/dynamic"
+	"github.com/FridaFino/goalgorithms/dynamic"
 )
 
 func longestIncreasingSubsequenceTest(t *testing.T, algorithm func(nums []int) int) {

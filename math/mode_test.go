@@ -8,8 +8,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/constraints"
-	"github.com/TheAlgorithms/Go/math"
+	"github.com/FridaFino/goalgorithms/constraints"
+	"github.com/FridaFino/goalgorithms/math"
 )
 
 type testCase[T constraints.Number] struct {

@@ -9,10 +9,10 @@ import "fmt"
 // with this easily.
 // For example, we can use gotools `go get` command to get
 // this repository cloned inside the
-// $GOPATH/src/github.com/TheAlgorithms/Go (you can do this
+// $GOPATH/src/github.com/FridaFino/goalgorithms (you can do this
 // manually as well) and use the import statement as follows:
 //
-// `import "github.com/TheAlgorithms/Go/structure/linkedlist"`
+// `import "github.com/FridaFino/goalgorithms/structure/linkedlist"`
 //
 // and call linkedlist.Doubly to create a new doubly linked list.
 type Doubly[T any] struct {

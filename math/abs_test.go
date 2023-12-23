@@ -1,7 +1,7 @@
 package math
 
 import (
-	"github.com/TheAlgorithms/Go/math/binary"
+	"github.com/FridaFino/goalgorithms/math/binary"
 	"math"
 	"testing"
 )

@@ -13,7 +13,7 @@
 package math
 
 import (
-	"github.com/TheAlgorithms/Go/math/prime"
+	"github.com/FridaFino/goalgorithms/math/prime"
 )
 
 // Mu is the Mobius function

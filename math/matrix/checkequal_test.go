@@ -3,7 +3,7 @@ package matrix_test
 import (
 	"testing"
 
-	"github.com/TheAlgorithms/Go/math/matrix"
+	"github.com/FridaFino/goalgorithms/math/matrix"
 )
 
 func TestCheckEqual(t *testing.T) {

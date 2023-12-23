@@ -1,7 +1,7 @@
 package tree_test
 
 import (
-	bt "github.com/TheAlgorithms/Go/structure/tree"
+	bt "github.com/FridaFino/goalgorithms/structure/tree"
 	"math/rand"
 	"sort"
 	"testing"

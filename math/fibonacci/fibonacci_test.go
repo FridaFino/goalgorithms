@@ -1,7 +1,7 @@
 package fibonacci
 
 import (
-	"github.com/TheAlgorithms/Go/dynamic"
+	"github.com/FridaFino/goalgorithms/dynamic"
 	"testing"
 )
 

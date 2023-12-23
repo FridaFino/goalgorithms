@@ -2,7 +2,7 @@ package heap
 
 import (
 	"errors"
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/FridaFino/goalgorithms/constraints"
 )
 
 // Heap heap implementation using generic.

@@ -1,7 +1,7 @@
 package dynamic
 
 import (
-	"github.com/TheAlgorithms/Go/math/max"
+	"github.com/FridaFino/goalgorithms/math/max"
 )
 
 // LongestIncreasingSubsequence returns the longest increasing subsequence

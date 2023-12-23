@@ -9,7 +9,7 @@
 
 package tree
 
-import "github.com/TheAlgorithms/Go/constraints"
+import "github.com/FridaFino/goalgorithms/constraints"
 
 type Color byte
 

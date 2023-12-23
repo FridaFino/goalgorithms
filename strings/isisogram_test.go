@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/strings"
+	"github.com/FridaFino/goalgorithms/strings"
 )
 
 var testCases = []struct {

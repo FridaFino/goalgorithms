@@ -1,7 +1,7 @@
 package strings_test
 
 import (
-	"github.com/TheAlgorithms/Go/strings"
+	"github.com/FridaFino/goalgorithms/strings"
 	"reflect"
 	"testing"
 )

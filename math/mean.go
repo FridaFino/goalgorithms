@@ -1,7 +1,7 @@
 package math
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/FridaFino/goalgorithms/constraints"
 )
 
 func Mean[T constraints.Number](values []T) float64 {

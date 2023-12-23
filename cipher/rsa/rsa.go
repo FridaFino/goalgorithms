@@ -15,7 +15,7 @@ package rsa
 import (
 	"errors"
 
-	modular "github.com/TheAlgorithms/Go/math/modular"
+	modular "github.com/FridaFino/goalgorithms/math/modular"
 )
 
 // ErrorFailedToEncrypt Raised when Encrypt function fails to encrypt the message

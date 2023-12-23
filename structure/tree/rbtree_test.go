@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	bt "github.com/TheAlgorithms/Go/structure/tree"
+	bt "github.com/FridaFino/goalgorithms/structure/tree"
 )
 
 func TestRBTreePush(t *testing.T) {

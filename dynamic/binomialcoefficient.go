@@ -1,6 +1,6 @@
 package dynamic
 
-import "github.com/TheAlgorithms/Go/math/min"
+import "github.com/FridaFino/goalgorithms/math/min"
 
 // func main() {
 // 	myArrayOfK := [4]int{5, 6, 7, 8}

@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"github.com/TheAlgorithms/Go/structure/linkedlist"
+	"github.com/FridaFino/goalgorithms/structure/linkedlist"
 )
 
 type item struct {

@@ -2,10 +2,10 @@ package tree_test
 
 import (
 	"fmt"
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/FridaFino/goalgorithms/constraints"
 	"testing"
 
-	bt "github.com/TheAlgorithms/Go/structure/tree"
+	bt "github.com/FridaFino/goalgorithms/structure/tree"
 )
 
 type TestTree[T constraints.Ordered] interface {

@@ -7,8 +7,8 @@
 package segmenttree
 
 import (
-	"github.com/TheAlgorithms/Go/math/max"
-	"github.com/TheAlgorithms/Go/math/min"
+	"github.com/FridaFino/goalgorithms/math/max"
+	"github.com/FridaFino/goalgorithms/math/min"
 )
 
 const emptyLazyNode = 0

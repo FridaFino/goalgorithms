@@ -4,7 +4,7 @@
 package sort
 
 import (
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/FridaFino/goalgorithms/constraints"
 )
 
 const runSizeThreshold = 8

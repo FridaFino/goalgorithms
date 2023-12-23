@@ -1,7 +1,7 @@
 package sqrt_test
 
 import (
-	"github.com/TheAlgorithms/Go/sqrt"
+	"github.com/FridaFino/goalgorithms/sqrt"
 	"testing"
 )
 

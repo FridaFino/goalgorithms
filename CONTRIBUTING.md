@@ -2,14 +2,14 @@
 
 ## Before contributing
 
-Welcome to [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go)! Before submitting pull requests, please make sure that you have **read the whole guidelines**. If you have any doubts about this contribution guide, please open [an issue](https://github.com/TheAlgorithms/Go/issues/new/choose) or ask in our [Discord server](https://the-algorithms.com/discord/) / [Gitter](https://gitter.im/TheAlgorithms), and clearly state your concerns.
+Welcome to [FridaFino/goalgorithms](https://github.com/FridaFino/goalgorithms)! Before submitting pull requests, please make sure that you have **read the whole guidelines**. If you have any doubts about this contribution guide, please open [an issue](https://github.com/FridaFino/goalgorithms/issues/new/choose) or ask in our [Discord server](https://the-algorithms.com/discord/) / [Gitter](https://gitter.im/TheAlgorithms), and clearly state your concerns.
 
 ## Contributing
 
 ### Maintainers
 ---
 
-Please check the [`CODEOWNERS`](https://github.com/TheAlgorithms/Go/blob/master/.github/CODEOWNERS) file for a list of repository maintainers.
+Please check the [`CODEOWNERS`](https://github.com/FridaFino/goalgorithms/blob/master/.github/CODEOWNERS) file for a list of repository maintainers.
 
 ### Contributor
 ---
@@ -18,7 +18,7 @@ Being a contributor at The Algorithms, we request you to follow the points menti
 
 - You did your own work.
   - No plagiarism is allowed. Any plagiarized work will not be merged.
-- Your work will be distributed under the [MIT License](https://github.com/TheAlgorithms/Go/blob/master/LICENSE) once your pull request has been merged.
+- Your work will be distributed under the [MIT License](https://github.com/FridaFino/goalgorithms/blob/master/LICENSE) once your pull request has been merged.
 - Please follow the repository guidelines and standards mentioned below.
 
 #### New implementation
@@ -44,7 +44,7 @@ Being a contributor at The Algorithms, we request you to follow the points menti
 - You can suggest reasonable changes to existing algorithms.
 - Strictly use snake_case (underscore_separated)  in filenames.
 - If you have added or modified code, please make sure the code compiles before submitting.
-- Our automated testing runs [LGTM](https://lgtm.com/projects/g/TheAlgorithms/Go/) on all the pull requests, so please be sure that your code passes before submitting.
+- Our automated testing runs [LGTM](https://lgtm.com/projects/g/FridaFino/goalgorithms/) on all the pull requests, so please be sure that your code passes before submitting.
 - Please conform to [GoDoc](https://blog.golang.org/godoc) standard and document the code as much as possible. This not only facilitates the readers but also generates the correct info on the website.
 - **Be consistent in the use of these guidelines.**
 
@@ -53,7 +53,7 @@ Being a contributor at The Algorithms, we request you to follow the points menti
 - Make sure you put useful comments in your code. Do not comment on obvious things.
 - Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure. If you want to create a new directory, then please check if a similar category has been recently suggested or created by other pull requests.
 - If you have modified/added documentation, please ensure that your language is concise and must not contain grammatical errors.
-- Do not update [`README.md`](https://github.com/TheAlgorithms/Go/blob/master/README.md) along with other changes. First, create an issue and then link to that issue in your pull request to suggest specific changes required to [`README.md`](https://github.com/TheAlgorithms/Go/blob/master/README.md).
+- Do not update [`README.md`](https://github.com/FridaFino/goalgorithms/blob/master/README.md) along with other changes. First, create an issue and then link to that issue in your pull request to suggest specific changes required to [`README.md`](https://github.com/FridaFino/goalgorithms/blob/master/README.md).
 - The repository follows [GoDoc](https://blog.golang.org/godoc) standards and auto-generates the [repository website](https://thealgorithms.github.io/). Please ensure the code is documented in this structure. A sample implementation is given below.
 
 #### Test
@@ -203,12 +203,12 @@ go build .
 ### Pull Requests
 ---
 
-- Check out our [pull request template](https://github.com/TheAlgorithms/Go/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request.md
+- Check out our [pull request template](https://github.com/FridaFino/goalgorithms/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request.md
   )
 
 #### Building Locally
 
-Before submitting a pull request, [build the code locally](#building) or using the convenient [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/Go) service.
+Before submitting a pull request, [build the code locally](#building) or using the convenient [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/FridaFino/goalgorithms) service.
 
 #### GitHub Actions
 

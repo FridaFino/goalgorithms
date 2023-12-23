@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/TheAlgorithms/Go/checksum"
+	"github.com/FridaFino/goalgorithms/checksum"
 )
 
 var (

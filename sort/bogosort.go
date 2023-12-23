@@ -9,7 +9,7 @@ package sort
 import (
 	"math/rand"
 
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/FridaFino/goalgorithms/constraints"
 )
 
 func isSorted[T constraints.Number](arr []T) bool {

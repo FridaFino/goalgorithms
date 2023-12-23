@@ -4,4 +4,4 @@ image:
 
 tasks:
   - init: |
-      echo "Welcome to TheAlgorithms/Go"
+      echo "Welcome to FridaFino/goalgorithms"

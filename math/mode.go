@@ -8,7 +8,7 @@ package math
 import (
 	"errors"
 
-	"github.com/TheAlgorithms/Go/constraints"
+	"github.com/FridaFino/goalgorithms/constraints"
 )
 
 // ErrEmptySlice is the error returned by functions in math package when
