@@ -1,3 +1,3 @@
-module github.com/TheAlgorithms/Go
+module github.com/FridaFino/goalgorithms
 
 go 1.19
